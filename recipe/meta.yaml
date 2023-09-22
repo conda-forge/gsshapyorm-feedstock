@@ -1,6 +1,6 @@
 {% set name = "gsshapyorm" %}
-{% set version = "0.3.1" %}
-{% set sha256 = "ee960682f7ad622b89dfb715f1744c260370b6d1402d88c0fcdb31b59facc359" %}
+{% set version = "0.3.2" %}
+{% set sha256 = "25f96fdb5d4ef0d0e7237a367830009d5f13e8ee3973fabb75757f98b52d453a" %}
 
 
 package:
