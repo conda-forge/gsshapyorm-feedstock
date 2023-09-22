@@ -29,9 +29,9 @@ requirements:
     - mapkit >=1.2.6
     - numpy
     - pandas
-    - psycopg2 <2
+    - psycopg2
     - pyyaml
-    - sqlalchemy
+    - sqlalchemy <2
     - timezonefinder
 
 test:
