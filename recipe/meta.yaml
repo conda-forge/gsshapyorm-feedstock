@@ -1,6 +1,6 @@
 {% set name = "gsshapyorm" %}
-{% set version = "0.3.3" %}
-{% set sha256 = "978d51a485f2e59016bfd1ba174b24cd33524a5e499506fbf907163eeb75af80" %}
+{% set version = "0.4.2" %}
+{% set sha256 = "3b64f8880a5e067dcb1bffe9e0adc2a9e5596d6562366031843cebf67cc6ff9f" %}
 
 
 package:
@@ -12,7 +12,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 1
+  number: 0
   script: "{{ PYTHON }} -m pip install . -vv"
   noarch: python
 
