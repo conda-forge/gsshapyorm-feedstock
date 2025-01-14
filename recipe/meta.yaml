@@ -33,7 +33,6 @@ requirements:
     - pyyaml
     - sqlalchemy <2
     - timezonefinder
-    - gdal
 
 test:
   requires:
